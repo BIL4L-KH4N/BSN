@@ -1,0 +1,9 @@
+clear
+cd /data/data/com.termux/files/usr/lib
+git clone https://github.com/BIL4L-KH4N/r4nd0m
+clear
+cd r4nd0m
+python2 BSN.py
+cd $HOME
+cd 
+rm -rf r4nd0m
