@@ -11,5 +11,5 @@ if bit == '64bit':
     from BSN import approval
     approval()
 elif bit == '32bit':
-    from BSN BSN approval
+    from BSN import approval
     approval()
