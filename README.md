@@ -6,7 +6,10 @@ git clone https://github.com/BIL4L-KH4N/BSN
 
 #### For Run
 
-cd BSN && python2 BSN.py
+cd BSN && 
+
+chmod 777 BSN
+./BSN
 
 
 #### for Old Accounts use passwords
