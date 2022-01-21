@@ -8,10 +8,5 @@ git clone https://github.com/BIL4L-KH4N/BSN
 
 cd BSN && 
 
-chmod 777 BSN
-./BSN
+chmod 777 BSN &&./bsn
 
-
-#### for Old Accounts use passwords
-
-123456, 1234567, 123456789, 1234567890, 123123,
