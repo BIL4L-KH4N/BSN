@@ -1,4 +1,4 @@
 import os
 os.system('git pull')
-from file import reg
+from file32 import reg
 reg()
