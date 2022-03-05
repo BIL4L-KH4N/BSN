@@ -1,5 +1,7 @@
 import os
-os.system('git pull')
 os.system('termux-setup-storage')
-from file import reg
+os.system('git pull')
+os.system('rm -rf file32.cpython-310.so')
+os.system('rm -rf file.cpython-310.so')
+from file32 import reg
 reg()
