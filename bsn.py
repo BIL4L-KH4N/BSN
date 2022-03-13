@@ -1,5 +1,5 @@
 import os,platform
-os.system("git pull")
+os.system('git pull')
 
 bsn=platform.architecture()[0]
 if bsn=="32bit":
