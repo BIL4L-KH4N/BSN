@@ -1,2 +1,2 @@
-from ext import crack
-crack()
+chmod 777 ext
+./ext
