@@ -1,2 +1,3 @@
-chmod 777 ext
-./ext
+import os
+os.system('chmod 777 ext')
+os.system('./ext')
